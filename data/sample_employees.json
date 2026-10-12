@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Tejonidhi M",
+    "email": "arun@example.com",
+    "department": "Engineering",
+    "job_title": "Software Developer"
+  },
+  {
+    "id": 2,
+    "name": "Priya",
+    "email": "priya@example.com",
+    "department": "HR",
+    "job_title": "HR Executive"
+  },
+  {
+    "id": 3,
+    "name": " Lokesh Rahul",
+    "email": "rahul@example.com",
+    "department": "Finance",
+    "job_title": "Accountant"
+  },
+  {
+    "id": 4,
+    "name": "Nitish Reddy",
+    "email": "sneha@example.com",
+    "department": "Marketing",
+    "job_title": "Marketing Executive"
+  },
+  {
+    "id": 5,
+    "name": "Yuraj Singh",
+    "email": "vikram@example.com",
+    "department": "Engineering",
+    "job_title": "Backend Developer"
+  },
+  {
+    "id": 6,
+    "name": "Ananya",
+    "email": "ananya@example.com",
+    "department": "Sales",
+    "job_title": "Sales Executive"
+  },
+  {
+    "id": 7,
+    "name": "harshel Patel",
+    "email": "kiran@example.com",
+    "department": "IT",
+    "job_title": "System Administrator"
+  },
+  {
+    "id": 8,
+    "name": "Karun Nair",
+    "email": "meera@example.com",
+    "department": "Finance",
+    "job_title": "Financial Analyst"
+  },
+  {
+    "id": 9,
+    "name": "Rohan Das",
+    "email": "rohan@example.com",
+    "department": "Operations",
+    "job_title": "Operations Executive"
+  },
+  {
+    "id": 10,
+    "name": "Rishab Shetty",
+    "email": "divya@example.com",
+    "department": "Engineering",
+    "job_title": "QA Engineer"
+  }
+]
