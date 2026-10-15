@@ -2,6 +2,7 @@ from sqlalchemy import (
     Boolean,
     CheckConstraint,
     Column,
+    Date,
     DateTime,
     ForeignKey,
     Integer,
@@ -26,6 +27,7 @@ class Employee(Base):
     id = Column(Integer, primary_key=True, index=True)
     name = Column(String(100), nullable=False, index=True)
     work_email = Column(String(255), nullable=False, unique=True)
+    joining_date = Column(Date, nullable=True)#adding joinig date 
     department_id = Column(
         Integer,
         ForeignKey("departments.id"),
